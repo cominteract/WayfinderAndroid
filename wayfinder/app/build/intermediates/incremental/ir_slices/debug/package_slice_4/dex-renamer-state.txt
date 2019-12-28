@@ -1,0 +1,4 @@
+#Thu Apr 05 20:57:21 CST 2018
+base.0=D\:\\wylogdev\\Wayfinder\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wayfinder.wayfinder"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat.Light">
+        <activity
+            android:name=".Home"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity
+            android:name=".Sched"
+            android:label="@string/title_activity_sched"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ImageMap"
+            android:label="@string/title_activity_image_map"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ViewBoothList"
+            android:label="@string/title_activity_image_map"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SchedThurs"
+            android:label="@string/title_activity_sched_thurs"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SchedFri"
+            android:label="@string/title_activity_sched_fri"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ScheduleViewActivity">
+
+        </activity>
+
+    </application>
+
+</manifest>

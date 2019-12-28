@@ -1,0 +1,97 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:background="@drawable/blackbg"
+	android:orientation="vertical"
+    tools:context=".Sched" >
+
+<LinearLayout
+	android:layout_marginTop="68dp"
+    android:orientation="horizontal"
+    android:id="@+id/ft2"
+    android:layout_height="235dp"
+    android:layout_width="wrap_content"
+    android:background="@drawable/charlescomplete" />
+<LinearLayout
+    android:layout_below="@id/ft2"
+    android:id="@+id/ft3"
+	android:layout_height="45dp"
+	android:layout_width="match_parent"
+	android:orientation="horizontal"
+	android:background="#8a8c8e"
+	android:layout_marginTop="3dp"
+	android:layout_marginBottom="3dp"
+    >
+<LinearLayout
+    android:orientation="horizontal"
+    android:id="@+id/prevsel"
+	android:layout_height="match_parent"
+	android:layout_width="0dp"
+	android:layout_weight=".17"
+    android:background="@drawable/previous"/>
+<LinearLayout
+	android:layout_height="match_parent"
+	android:layout_width="0dp"
+	android:layout_weight=".65">
+    <ImageView
+        android:contentDescription="schedsaturday"
+		android:layout_height="match_parent"
+		android:layout_width="match_parent"
+        android:background="@drawable/schedtitlesat"
+        />
+    </LinearLayout>
+<LinearLayout
+    android:orientation="horizontal"
+    android:id="@+id/homesel"
+	android:layout_height="match_parent"
+	android:layout_width="0dp"
+	android:layout_weight=".17"
+    android:background="@drawable/home"/>
+
+</LinearLayout>    
+
+
+<LinearLayout
+    android:layout_below="@id/ft3"
+    android:id="@+id/ft4"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:background="@drawable/satdschedbg"
+
+    />
+<LinearLayout
+    android:id="@+id/ft5"
+	android:layout_height="75dp"
+	android:layout_width="match_parent"
+	android:weightSum="1"
+	android:paddingLeft="50dp"
+	android:paddingRight="50dp"
+    android:gravity="center_horizontal"
+    >
+    	<Button
+
+        	android:id="@+id/first_button"
+			android:layout_weight=".25"
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_marginTop="15dp"
+        	android:background="@drawable/charlessel"/>
+        <Button 
+
+        	android:id="@+id/second_button"
+			android:layout_weight=".25"
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_marginTop="15dp"
+        	android:background="@drawable/emilyunsel"/>
+        <Button
+        	android:id="@+id/third_button"
+			android:layout_weight=".25"
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_marginTop="15dp"
+        	android:background="@drawable/tomunsel"/>
+</LinearLayout>     
+</RelativeLayout>

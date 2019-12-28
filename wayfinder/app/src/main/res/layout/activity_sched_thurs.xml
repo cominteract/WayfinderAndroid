@@ -1,0 +1,118 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:background="@drawable/blackbg"
+	android:orientation="vertical"
+    tools:context=".SchedThurs" >
+
+<LinearLayout
+	android:layout_marginTop="68dp"
+    android:orientation="horizontal"
+    android:id="@+id/ft2"
+    android:layout_height="235dp"
+    android:layout_width="wrap_content"
+    android:background="@drawable/dickcomplete" />
+<LinearLayout
+    android:layout_below="@id/ft2"
+    android:id="@+id/ft3"
+    android:layout_height="45dp"
+    android:layout_width="match_parent"
+  	android:orientation="horizontal"
+  	android:background="#8a8c8e"
+	android:weightSum="1"
+  	android:layout_marginTop="3dp"
+	android:layout_marginBottom="3dp"
+    >
+<LinearLayout
+    android:orientation="horizontal"
+    android:id="@+id/homesel"
+    android:layout_height="match_parent"
+    android:layout_width="0dp"
+	android:layout_weight=".17"
+    android:background="@drawable/home"/>
+<LinearLayout
+    android:layout_height="match_parent"
+	android:layout_width="0dp"
+	android:layout_weight=".65"
+	>
+    <ImageView
+        android:contentDescription="schedthursday"
+        android:layout_height="match_parent"
+		android:layout_width="match_parent"
+        android:background="@drawable/schedtitlethu"
+        />
+    </LinearLayout>
+<LinearLayout
+    android:orientation="horizontal"
+    android:id="@+id/nextsel"
+    android:layout_height="match_parent"
+	android:layout_width="0dp"
+	android:layout_weight=".17"
+    android:background="@drawable/next"/>
+
+</LinearLayout>          
+
+
+<LinearLayout
+    android:layout_below="@id/ft3"
+    android:id="@+id/ft4"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:background="@drawable/thuschedbg"
+
+    />
+<LinearLayout
+    android:id="@+id/ft5"
+    android:layout_height="75dp"
+    android:layout_width="match_parent"
+	android:weightSum="1"
+    android:gravity="center_horizontal"
+    >
+    	<Button
+    		android:layout_marginTop="15dp"
+        	android:id="@+id/first_button"
+       	 	android:padding="5dp"
+        	android:layout_height="match_parent"
+			android:layout_weight=".17"
+			android:layout_width="0dp"
+        	android:background="@drawable/louieunsel"/>
+        <Button 
+        	android:layout_marginTop="15dp"
+        	android:id="@+id/second_button"
+        	android:padding="5dp"
+        	android:layout_height="match_parent"
+			android:layout_weight=".17"
+			android:layout_width="0dp"
+        	android:background="@drawable/chotunsel"/>
+        <Button
+        	android:layout_marginTop="15dp"
+        	android:id="@+id/third_button"
+        	android:layout_height="match_parent"
+			android:layout_weight=".17"
+			android:layout_width="0dp"
+        	android:background="@drawable/marcusunsel"/>
+	<Button
+        android:layout_marginTop="15dp"
+        android:id="@+id/fourth_button"         
+        android:layout_height="match_parent"
+		android:layout_weight=".17"
+		android:layout_width="0dp"
+        android:background="@drawable/sandipanunsel"/>
+    <Button
+        android:layout_marginTop="15dp"
+        android:id="@+id/fifth_button"         
+        android:layout_height="match_parent"
+		android:layout_weight=".17"
+		android:layout_width="0dp"
+        android:background="@drawable/boyunsel"/>
+    <Button
+        android:layout_marginTop="15dp"
+        android:id="@+id/sixth_button"         
+        android:layout_height="match_parent"
+		android:layout_weight=".17"
+		android:layout_width="0dp"
+        android:background="@drawable/dicksel"/>
+</LinearLayout>     
+</RelativeLayout>

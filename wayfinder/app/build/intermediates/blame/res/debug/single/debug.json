@@ -1,0 +1,2158 @@
+[
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_design_bottom_navigation_item.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_ic_clear_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-v21_avd_hide_password.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_marcussel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/marcussel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable-xxhdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_mapimagebackground.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/mapimagebackground.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_activity_sched.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/activity_sched.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_chotcomplete.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/chotcomplete.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_view_red.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/view_red.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_icube2h.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/icube2h.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_louiecomplete.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/louiecomplete.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable-mdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_text_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_color_select.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/color/color_select.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_boysel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/boysel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_emilyunsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/emilyunsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_my_row_selector.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/my_row_selector.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_tweenhead.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/anim/tweenhead.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_design_navigation_item_separator.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable-hdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_satschedbg.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/satschedbg.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-v21_design_bottom_navigation_item_background.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_design_text_input_password_icon.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color-v23_abc_tint_spinner.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/menu_sched_thurs.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/menu/sched_thurs.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_btn_colored_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a2e713391be680d929e89b7ae6c65473/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_thuschedbg.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/thuschedbg.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_activity_schedule.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/activity_schedule.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_listview_booth.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/listview_booth.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_frischedbg.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/frischedbg.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_louieunsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/louieunsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_view_blue.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/view_blue.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_hmcube.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/hmcube.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_navigation_empty_icon.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_icubes.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/icubes.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_ncube2.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/ncube2.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_view_green.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/view_green.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_blackbg.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/blackbg.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_merleecomplete.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/merleecomplete.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_dickunsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/dickunsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_design_ic_visibility.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable-xhdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a2e713391be680d929e89b7ae6c65473/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_design_snackbar_in.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_tint_btn_checkable.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_activity_image_map.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/activity_image_map.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable-xxxhdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_homebgfinal.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/homebgfinal.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/animator-v21_design_appbar_state_list_animator.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/animator-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_design_navigation_item_header.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_design_bottom_sheet_slide_in.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a2e713391be680d929e89b7ae6c65473/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_abc_slide_in_top.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a2e713391be680d929e89b7ae6c65473/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_tweenbut.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/anim/tweenbut.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_boycomplete.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/boycomplete.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_adsummitbutton.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/adsummitbutton.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_tooltip.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_out.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color-v21_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color-v21/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_dicksel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/dicksel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_dialog_title_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_scube.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/scube.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_simoncomplete.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/simoncomplete.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_light.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_sandipansel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/sandipansel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_tint_seek_thumb.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_design_navigation_item.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_tween.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/anim/tween.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_simonunsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/simonunsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_cheukunsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/cheukunsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_blacktext_list.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/blacktext_list.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_dickcomplete.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/dickcomplete.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_header.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/header.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable-mdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_merleeunsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/merleeunsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_fridschedbg.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/fridschedbg.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_design_error.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_tomcomplete.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/tomcomplete.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_icubes2.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/icubes2.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_chotunsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/chotunsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_next.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/next.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar_include.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_emilycomplete.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/emilycomplete.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_design_ic_visibility.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable-hdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_design_navigation_item_subheader.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_charlescomplete.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/charlescomplete.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color-v23_abc_tint_default.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_btn_radio_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_activity_sched_thurs.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/activity_sched_thurs.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_tomunsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/tomunsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_charlessel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/charlessel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_search_url_text.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_home.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/home.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_schedtitlefri.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/schedtitlefri.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_tint_switch_track.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_activity_image_create.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/activity_image_create.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_boyunsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/boyunsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_design_tint_password_toggle.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable-xxxhdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_lcube.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/lcube.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_simonsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/simonsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a2e713391be680d929e89b7ae6c65473/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_design_navigation_menu_item.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_activity_schedule_view.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/activity_schedule_view.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_merleesel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/merleesel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_activity_sched_fri.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/activity_sched_fri.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_schedtitlesat.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/schedtitlesat.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color-v23_design_tint_password_toggle.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a2e713391be680d929e89b7ae6c65473/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_louiesel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/louiesel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_satdschedbg.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/satdschedbg.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_cheukcomplete.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/cheukcomplete.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_container.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/container.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable-xhdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_tint_default.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_design_bottom_sheet_slide_out.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/menu_home.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/menu/home.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_design_snackbar_background.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_activity_home.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a2e713391be680d929e89b7ae6c65473/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_tweenhome.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/anim/tweenhome.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_design_ic_visibility.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_design_snackbar_out.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_homebutton.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/homebutton.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_previous.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/previous.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a2e713391be680d929e89b7ae6c65473/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/menu_sched.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/menu/sched.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_marcusunsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/marcusunsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_ncube.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/ncube.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-watch-v20_abc_dialog_material_background.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-watch-v20/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_icube.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/icube.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_container2.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/container2.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_abc_tooltip_enter.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_vector_test.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_sandipanunsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/sandipanunsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_btn_colored_text_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_in.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_icube2.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/icube2.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_activity_view_booth_list.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/activity_view_booth_list.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_icubeh.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/icubeh.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable-xxhdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_schedbutton.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/schedbutton.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_arielcomplete.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/arielcomplete.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a2e713391be680d929e89b7ae6c65473/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_schedtitlethu.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/schedtitlethu.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-v21_avd_show_password.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_tint_spinner.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_design_bottom_navigation_item_background.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_page.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/page.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_cheuksel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/cheuksel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_abc_tooltip_exit.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_screen_simple.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_marcuscomplete.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/marcuscomplete.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/menu_image_map.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/menu/image_map.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_tweenbut2.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/anim/tweenbut2.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_customtablayout.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/customtablayout.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_tomsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/tomsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_chotsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/chotsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_hcube.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/hcube.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_emilysel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/emilysel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_design_fab_background.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_arielsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/arielsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_track_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_custom_speaker_layout.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/custom_speaker_layout.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color_abc_tint_edittext.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_light.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/color-v23_abc_tint_switch_track.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94152c616cfae76c6a0eeb906c88911b/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_charlesunsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/charlesunsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable_design_password_eye.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_viewbooth.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/layout/viewbooth.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_arielunsel.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/arielunsel.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_design_navigation_menu.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/menu_sched_fri.xml.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/menu/sched_fri.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi_sandipancomplete.png.flat",
+        "source": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/src/main/res/drawable-mdpi/sandipancomplete.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-v21_design_password_eye.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3e39e8244d446a6374417d805fa2ebd1/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/andreinsigne/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7a9aead7572cb90703ecaec61bd26e83/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    }
+]

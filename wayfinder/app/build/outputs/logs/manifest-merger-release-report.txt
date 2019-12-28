@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\d260caecd43b712d828373dc5a784a50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\40a20b7462572d605288eea7e312d40c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\aaaa5bb6c350f2357fa3ca23f8f7d173\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b69a857026c53d13fb3b38ae38ee4a43\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\8d08fe2c246b1152ac4e1f697e1513f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\4303c08a8bc64c7102620b4927e08ef4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\626eb5aaa9e991946645d925cca7565d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\8f2f888bd986f232ed850447dbb5180d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\adddeca9a1774d58646ff9a47753765c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\1ff6504ab298b6fc1d0a592f065d166e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\b7055bccad6afc62823a1715e77eb736\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\89a32df0a29eda62f42e6290f0f2296b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\4ab9b38c18d491b1c5593f464423339c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e293b162f868f867057c5e8851932c41\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e9f0ae1aae59a9b118cf263d25542032\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c6352fbcfd05e0c027771d8edbf4d56\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c93386cdbb8393dfd42ca08437b0084c\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\d260caecd43b712d828373dc5a784a50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\d260caecd43b712d828373dc5a784a50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\40a20b7462572d605288eea7e312d40c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\40a20b7462572d605288eea7e312d40c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\aaaa5bb6c350f2357fa3ca23f8f7d173\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\aaaa5bb6c350f2357fa3ca23f8f7d173\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b69a857026c53d13fb3b38ae38ee4a43\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b69a857026c53d13fb3b38ae38ee4a43\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\8d08fe2c246b1152ac4e1f697e1513f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\8d08fe2c246b1152ac4e1f697e1513f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\4303c08a8bc64c7102620b4927e08ef4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\4303c08a8bc64c7102620b4927e08ef4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\626eb5aaa9e991946645d925cca7565d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\626eb5aaa9e991946645d925cca7565d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\8f2f888bd986f232ed850447dbb5180d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\8f2f888bd986f232ed850447dbb5180d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\adddeca9a1774d58646ff9a47753765c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\adddeca9a1774d58646ff9a47753765c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\1ff6504ab298b6fc1d0a592f065d166e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\1ff6504ab298b6fc1d0a592f065d166e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\b7055bccad6afc62823a1715e77eb736\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\b7055bccad6afc62823a1715e77eb736\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\89a32df0a29eda62f42e6290f0f2296b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\89a32df0a29eda62f42e6290f0f2296b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\4ab9b38c18d491b1c5593f464423339c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\4ab9b38c18d491b1c5593f464423339c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e293b162f868f867057c5e8851932c41\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e293b162f868f867057c5e8851932c41\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e9f0ae1aae59a9b118cf263d25542032\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e9f0ae1aae59a9b118cf263d25542032\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c6352fbcfd05e0c027771d8edbf4d56\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c6352fbcfd05e0c027771d8edbf4d56\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c93386cdbb8393dfd42ca08437b0084c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c93386cdbb8393dfd42ca08437b0084c\AndroidManifest.xml:20:5-44
+INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:13:22-72
+application
+ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:15:5-55:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b69a857026c53d13fb3b38ae38ee4a43\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b69a857026c53d13fb3b38ae38ee4a43\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:19:9-53
+activity#com.wayfinder.wayfinder.Home
+ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:20:9-30:20
+	android:screenOrientation
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:21:13-33
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.wayfinder.wayfinder.Sched
+ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:31:9-34:52
+	android:screenOrientation
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:33:13-57
+	android:name
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:32:13-34
+activity#com.wayfinder.wayfinder.ImageMap
+ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:35:9-38:52
+	android:screenOrientation
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:37:13-61
+	android:name
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:36:13-37
+activity#com.wayfinder.wayfinder.ViewBoothList
+ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:39:9-42:52
+	android:screenOrientation
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:41:13-61
+	android:name
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:40:13-42
+activity#com.wayfinder.wayfinder.SchedThurs
+ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:43:9-46:52
+	android:screenOrientation
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:46:13-49
+	android:label
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:45:13-63
+	android:name
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:44:13-39
+activity#com.wayfinder.wayfinder.SchedFri
+ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:47:9-50:52
+	android:screenOrientation
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:49:13-61
+	android:name
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:48:13-37
+activity#com.wayfinder.wayfinder.ScheduleViewActivity
+ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:51:9-53:20
+	android:name
+		ADDED from D:\wylogdev\Wayfinder\app\src\main\AndroidManifest.xml:51:19-55

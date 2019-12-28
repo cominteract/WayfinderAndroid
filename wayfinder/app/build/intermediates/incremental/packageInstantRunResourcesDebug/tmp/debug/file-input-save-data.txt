@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Thu Apr 05 20:57:14 CST 2018
+1.base=D\:\\wylogdev\\Wayfinder\\app\\build\\intermediates\\assets\\debug
+2.path=fonts/NOVECENTOWIDE-DEMIBOLD 2.OTF
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=D\:\\wylogdev\\Wayfinder\\app\\build\\intermediates\\assets\\debug
+3.set=ASSET
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=fonts/NOVECENTOWIDE-BOOK 2.OTF
+count=4
+1.set=ASSET
+0.path=fonts/NOVECENTOWIDE-LIGHT.OTF
+3.base=D\:\\wylogdev\\Wayfinder\\app\\build\\intermediates\\assets\\debug
+0.set=ASSET
+0.base=D\:\\wylogdev\\Wayfinder\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=fonts/Novecentowide-DemiBold 2.ttf

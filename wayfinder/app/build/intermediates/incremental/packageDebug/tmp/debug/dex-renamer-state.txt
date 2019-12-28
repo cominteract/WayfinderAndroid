@@ -1,0 +1,4 @@
+#Fri Dec 27 18:28:01 PHT 2019
+base.0=/Users/andreinsigne/Documents/AndroidProjects/wayfinder/wayfinder/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
